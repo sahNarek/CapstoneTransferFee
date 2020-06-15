@@ -17,5 +17,6 @@ The modeling stage contains two approaches.
 
 As an end-product, the visualizations are deployed on an interactive dashboard. <br/>
 The code for the dashboard can be found [here](https://github.com/ashotkhanaslanyan/cs2020capstonedashboard). <br/>
+The link for the deployed dashboard can be found [here](https://sportstatdash.herokuapp.com/). <br/>
 
 *Google Colab was used for development, so please change the path to Capstone/ folder when using another IDE.
